@@ -1,4 +1,4 @@
- 
+
 // create a new array called buttonColours and set it to hold the sequence "red", "blue", "green", "yellow" .
 var buttonColours = ["red","blue","green","yellow"];
 // create a new empty array called gamePattern.
