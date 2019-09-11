@@ -1,5 +1,4 @@
-alert("Please enable your speaker before proceed");
-alert("Rule of the game : 1.Press any key on the keyboard to start the game.2.At each level the computer will show you a colour is pressed,you have to press all the colours that have pressed by the computer from level 1 all the way up to the current level in order to go to next level. Forexample, if computer presses blue color at level 1,you have to press the blue colour to pass to level 2 ; at level 2, if computer this time presses yellow colour, you have to press blue color(color from level 1) + yellow colour(current level) in order to pass to level 3); 
+ 
 // create a new array called buttonColours and set it to hold the sequence "red", "blue", "green", "yellow" .
 var buttonColours = ["red","blue","green","yellow"];
 // create a new empty array called gamePattern.
